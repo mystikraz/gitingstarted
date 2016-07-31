@@ -1,0 +1,25 @@
+GIT
+
+Git is a version control system.
+It is more faster and secured than ftp
+It can roll back if the deployment doesn't work.
+
+
+commands
+
+git config -l           ----------> list all config settings 
+git config --global user.name "raj tandukar"
+git config --global user.email royal_raj@outlook.com
+
+
+mkdir folder_name  ----------to make new folder
+touch file_nam	----------- to make a new file	
+
+
+git init --------to initialize git
+git status
+git add file_name----- to add for single file
+git add .  -------- to add for all files
+git commit -m 'initial commit- added readme file'
+
+git log   --------- to see all the logs
