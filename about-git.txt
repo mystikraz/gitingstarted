@@ -14,7 +14,7 @@ git config --global user.email royal_raj@outlook.com
 
 mkdir folder_name  ----------to make new folder
 touch file_nam	----------- to make a new file	
-
+dir or ls ------ to see the lists of folders
 
 git init --------to initialize git
 git status
@@ -23,3 +23,6 @@ git add .  -------- to add for all files
 git commit -m 'initial commit- added readme file'
 
 git log   --------- to see all the logs
+
+git remote add origin https://github.com/mystikraz/gitingstarted.git
+git push -u origin master
